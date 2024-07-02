@@ -21,7 +21,6 @@ This repository contains the implementation of a dermatological image classifier
   - [Data Privacy](#data-privacy)
   - [Bias in Training Data](#bias-in-training-data)
   - [Possibility of Misclassifications on Patient Outcomes](#possibility-of-misclassifications-on-patient-outcomes)
-- [License](#license)
 
 ## Introduction
 
@@ -86,7 +85,3 @@ Training data should represent diverse demographics to reduce the risk of biased
 ### Possibility of Misclassifications on Patient Outcomes
 
 Automated diagnosis systems should enhance rather than replace human competence, given the possibility of misclassification and its impact on patient outcomes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
